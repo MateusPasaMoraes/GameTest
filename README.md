@@ -1,6 +1,6 @@
 # AFTERMATH — Dias silenciosos
 
-Protótipo jogável de sobrevivência em perspectiva isométrica, ambientado em Maplewood após o colapso da sociedade. Esta primeira fatia concentra-se na exploração de um bairro, coleta, necessidades básicas, fabricação simples e persistência local — sem zumbis ou elementos sobrenaturais.
+Protótipo jogável de sobrevivência em perspectiva isométrica, ambientado em Maplewood após o colapso da sociedade. Esta primeira fatia concentra-se na exploração de um bairro, coleta, necessidades básicas, fabricação simples e persistência local.
 
 ## Executar
 
